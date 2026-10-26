@@ -1,0 +1,20 @@
+{
+  "name": "artcraft-creative-studio",
+  "displayName": "ArtCraft Creative Studio",
+  "version": "1.0.0",
+  "description": "Draft ArtCraft-ready image and video prompts and plan 2D/3D scenes.",
+  "author": {
+    "name": "ArtCraft",
+    "url": "https://getartcraft.com/"
+  },
+  "homepage": "https://getartcraft.com/",
+  "license": "MIT",
+  "keywords": [
+    "artcraft",
+    "creative",
+    "image",
+    "video",
+    "3d",
+    "prompting"
+  ]
+}

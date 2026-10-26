@@ -128,6 +128,10 @@ More previews are coming for image inpainting and image ingredients.
 
 Additional provider integrations are planned for Kling, Google, Runway, and Luma. We're also interested in supporting existing subscriptions with aggregators such as OpenArt and Freepik.
 
+## Claude Web marketplace
+
+This repository includes an ArtCraft marketplace for Claude on the web, with skills for image prompts, video prompts, and scene planning. Add it from Claude's **Customize > Plugins > Add marketplace** flow, including on Claude Free. [Setup instructions and an optional individual-skill upload route](./docs/claude-marketplace.md).
+
 ## Downloads
 
 - [Stable releases for Windows and macOS](https://getartcraft.com/)

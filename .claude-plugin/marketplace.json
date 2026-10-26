@@ -1,0 +1,15 @@
+{
+  "name": "artcraft-creative",
+  "description": "ArtCraft creative workflow skills for Claude.",
+  "owner": {
+    "name": "ArtCraft",
+    "url": "https://getartcraft.com/"
+  },
+  "plugins": [
+    {
+      "name": "artcraft-creative-studio",
+      "source": "./plugins/artcraft-creative-studio",
+      "description": "Draft ArtCraft-ready image and video prompts and plan 2D/3D scenes."
+    }
+  ]
+}
